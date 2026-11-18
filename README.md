@@ -4,7 +4,7 @@ The "Next meeting" strip on each board card on the wsesu.net School Boards page 
 by GitHub Pages and embedded as one iframe per board:
 
 ```html
-<iframe src="https://hepennypacker22.github.io/wsesu-board-next/b/hartland/" ...></iframe>
+<iframe src="https://wsesu.github.io/wsesu-board-next/b/hartland/" ...></iframe>
 ```
 
 Boards: `wsesu`, `hartland`, `mount-ascutney`, `weathersfield`. Use the path form; SchoolBlocks strips
