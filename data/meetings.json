@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T06:58:54.916Z",
+  "updated": "2026-11-18T18:00:23.133Z",
   "boards": {
     "wsesu": {
       "allUrl": "https://drive.google.com/drive/folders/1dJq4eCztlJAaDPrj7cxAwZrdbaNZoEEn",
@@ -91,6 +91,17 @@
       "allUrl": "https://drive.google.com/drive/folders/1dK4fMBFj2hPc0cRXENDCkOYL8Dw9vENw",
       "meetings": [
         {
+          "date": "2026-11-20",
+          "label": "Special Meeting",
+          "folderUrl": "https://drive.google.com/drive/folders/1j5kKTP4hwgVsxjc38Yz7dt2rigFiI8FW",
+          "agendaUrl": "https://drive.google.com/file/d/1BPZ3DayYnB82g6rvMX9uDTersZOUOwH4/view?usp=drive_web",
+          "details": {
+            "time": "7:45 a.m.",
+            "place": "Google Meet Only",
+            "meetUrl": "https://meet.google.com/vnf-sxnu-xoq"
+          }
+        },
+        {
           "date": "2026-12-08",
           "label": "Meeting",
           "folderUrl": "https://drive.google.com/drive/folders/1jTw6yP7iAbS0jhzj0pnBACBS5VX67NWM",
@@ -106,12 +117,6 @@
           "date": "2027-02-09",
           "label": "Meeting",
           "folderUrl": "https://drive.google.com/drive/folders/1W4XoeHob14N9qLIOT6zWHrJXsIKx29Zx",
-          "agendaUrl": ""
-        },
-        {
-          "date": "2027-03-16",
-          "label": "Reorganization Meeting",
-          "folderUrl": "https://drive.google.com/drive/folders/1mzQ7U9R2aC5dLvTJ0zuIHICN7E-oRpcP",
           "agendaUrl": ""
         }
       ]
