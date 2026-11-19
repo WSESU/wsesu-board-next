@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:00:23.133Z",
+  "updated": "2026-11-19T19:37:24.567Z",
   "boards": {
     "wsesu": {
       "allUrl": "https://drive.google.com/drive/folders/1dJq4eCztlJAaDPrj7cxAwZrdbaNZoEEn",
@@ -8,7 +8,12 @@
           "date": "2026-11-23",
           "label": "Meeting",
           "folderUrl": "https://drive.google.com/drive/folders/19eYtDUD_o7D2pm18g1YeYpBf95uqPB4D",
-          "agendaUrl": ""
+          "agendaUrl": "https://drive.google.com/file/d/1Zxz4jPnRie4A6fXOIgdBvzrzXRAg6_lV/view?usp=drive_web",
+          "details": {
+            "time": "6:00 pm",
+            "place": "Google Meet and WSESU Central Office Conference Room (Windsor House, 54 Main St, 2nd Floor, Windsor, VT)",
+            "meetUrl": "https://meet.google.com/tvc-fnwd-xny"
+          }
         },
         {
           "date": "2026-12-14",
@@ -68,6 +73,12 @@
           }
         },
         {
+          "date": "2026-12-03",
+          "label": "Budget Advisory Committee Meeting",
+          "folderUrl": "https://drive.google.com/drive/folders/1-swiJmGD48rFejwkaUIG9efsdZDtPuba",
+          "agendaUrl": ""
+        },
+        {
           "date": "2026-12-07",
           "label": "Meeting at ABS",
           "folderUrl": "https://drive.google.com/drive/folders/1L8dB1nuurHO7a-F8Z5xYuK164TnUlqIG",
@@ -77,12 +88,6 @@
           "date": "2027-01-04",
           "label": "Meeting at Windsor School",
           "folderUrl": "https://drive.google.com/drive/folders/1gcfUFMJmTz0eCUFOIiIFdUQJxM5GdNTd",
-          "agendaUrl": ""
-        },
-        {
-          "date": "2027-02-01",
-          "label": "Meeting at ABS",
-          "folderUrl": "https://drive.google.com/drive/folders/19lYqAVjACr_3tA-HeQDpMsZ_Y7NCumaJ",
           "agendaUrl": ""
         }
       ]
