@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T19:37:24.567Z",
+  "updated": "2026-11-20T01:26:53.345Z",
   "boards": {
     "wsesu": {
       "allUrl": "https://drive.google.com/drive/folders/1dJq4eCztlJAaDPrj7cxAwZrdbaNZoEEn",
@@ -76,7 +76,12 @@
           "date": "2026-12-03",
           "label": "Budget Advisory Committee Meeting",
           "folderUrl": "https://drive.google.com/drive/folders/1-swiJmGD48rFejwkaUIG9efsdZDtPuba",
-          "agendaUrl": ""
+          "agendaUrl": "https://drive.google.com/file/d/1LuvYZvI3pN5WYM6y-1eiNllGuybzSqQ7/view?usp=drive_web",
+          "details": {
+            "time": "1:00 p.m.",
+            "place": "Google Meet (only)",
+            "meetUrl": "https://meet.google.com/scz-mqjp-oct"
+          }
         },
         {
           "date": "2026-12-07",
