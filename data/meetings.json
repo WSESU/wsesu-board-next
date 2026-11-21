@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T01:26:53.345Z",
+  "updated": "2026-11-21T06:57:15.227Z",
   "boards": {
     "wsesu": {
       "allUrl": "https://drive.google.com/drive/folders/1dJq4eCztlJAaDPrj7cxAwZrdbaNZoEEn",
@@ -62,17 +62,6 @@
       "allUrl": "https://drive.google.com/drive/folders/1dDNGUGvJ406_huug0WaYWuCHuGtObVhq",
       "meetings": [
         {
-          "date": "2026-11-19",
-          "label": "Budget Advisory Committee Meeting",
-          "folderUrl": "https://drive.google.com/drive/folders/185oNigDOsQp-CIEH5kQPGkz1lV6F5_Yj",
-          "agendaUrl": "https://drive.google.com/file/d/1bO1d9d898eYLYVK7KUVGGVzL8zBc3CzX/view?usp=drive_web",
-          "details": {
-            "time": "10:00 a.m.",
-            "place": "Google Meet ONLY",
-            "meetUrl": "https://meet.google.com/scz-mqjp-oct"
-          }
-        },
-        {
           "date": "2026-12-03",
           "label": "Budget Advisory Committee Meeting",
           "folderUrl": "https://drive.google.com/drive/folders/1-swiJmGD48rFejwkaUIG9efsdZDtPuba",
@@ -93,6 +82,12 @@
           "date": "2027-01-04",
           "label": "Meeting at Windsor School",
           "folderUrl": "https://drive.google.com/drive/folders/1gcfUFMJmTz0eCUFOIiIFdUQJxM5GdNTd",
+          "agendaUrl": ""
+        },
+        {
+          "date": "2027-02-01",
+          "label": "Meeting at ABS",
+          "folderUrl": "https://drive.google.com/drive/folders/19lYqAVjACr_3tA-HeQDpMsZ_Y7NCumaJ",
           "agendaUrl": ""
         }
       ]
