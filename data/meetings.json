@@ -1,20 +1,9 @@
 {
-  "updated": "2026-11-24T00:19:33.395Z",
+  "updated": "2026-11-25T14:18:13.730Z",
   "boards": {
     "wsesu": {
       "allUrl": "https://drive.google.com/drive/folders/1dJq4eCztlJAaDPrj7cxAwZrdbaNZoEEn",
       "meetings": [
-        {
-          "date": "2026-11-23",
-          "label": "Meeting",
-          "folderUrl": "https://drive.google.com/drive/folders/19eYtDUD_o7D2pm18g1YeYpBf95uqPB4D",
-          "agendaUrl": "https://drive.google.com/file/d/1Zxz4jPnRie4A6fXOIgdBvzrzXRAg6_lV/view?usp=drive_web",
-          "details": {
-            "time": "6:00 pm",
-            "place": "Google Meet and WSESU Central Office Conference Room (Windsor House, 54 Main St, 2nd Floor, Windsor, VT)",
-            "meetUrl": "https://meet.google.com/tvc-fnwd-xny"
-          }
-        },
         {
           "date": "2026-12-14",
           "label": "Meeting",
@@ -31,6 +20,12 @@
           "date": "2027-02-15",
           "label": "Meeting",
           "folderUrl": "https://drive.google.com/drive/folders/1kNiKNjNqNTRnQcM6eNixgVpKfkIrs9Mu",
+          "agendaUrl": ""
+        },
+        {
+          "date": "2027-03-22",
+          "label": "Reorganization Meeting",
+          "folderUrl": "https://drive.google.com/drive/folders/1Hy7x9DpZZVtt8eSLGPjnqt3xAyfVHdgw",
           "agendaUrl": ""
         }
       ]
